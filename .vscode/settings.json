@@ -1,0 +1,3 @@
+{
+  "ruby.rubocop.executePath": "/root/.rbenv/shims/rubocop"
+}

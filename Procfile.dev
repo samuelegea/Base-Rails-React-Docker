@@ -1,2 +1,0 @@
-front: cd frontend && PORT=3000 npm start 
-back: cd backend && bundle exec rails s -p 3001
