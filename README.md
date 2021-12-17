@@ -1,6 +1,2 @@
 # Postboy
-Postman clone with free team collaboration
-
-Just clone and run docker compose up!
-
-Created by @samuelegea and @willianeckstein
+This is just a basic template of Rails API + ReactJS + Docker
